@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaSarna
 - 👀 I’m interested in music, science and technology. 
-- 🌱 I’m currently exploring Swift & iOS world.
-- 💞️ I’m looking to collaborate on any Swift and/or iOS projects.
+- 🌱 I’m QA Automation Engineer.
+- 💞️ I’m looking to collaborate on any Mobile/Web project.
 - 📫 How to reach me: mateusz_sarna@outlook.com
 
 <!---
